@@ -105,9 +105,3 @@ Dockerfile
 # coffeelint for editors (might be standardized eventually)
 coffeelint.json
 gitSpy/*
-
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
-!.ebextensions/*
